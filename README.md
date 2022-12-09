@@ -18,6 +18,12 @@ Sin embargo el navMesh del agente amarillo no puede:
 
 ![img](./img/yellowNavMesh.PNG)
 
-GIF que muestra el resultado:
+GIFs que muestran el resultado:
 
-![gif](./GIF/resultado.gif)
+-> En este GIF podemos ver que los agentes rojo y azul pueden pasar por el tubo, pero el amarillo no.
+
+![gif](./GIF/resultado1.gif)
+
+-> En este GIF podemos ver que el agente rojo puede pasar, pero los agentes azul y amarillo no.
+
+![gif](./GIF/resultado2.gif)
